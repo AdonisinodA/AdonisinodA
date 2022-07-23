@@ -14,7 +14,7 @@
   <img align="center" alt="AdonisinodA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AdonisinodA-Node" height="30" width="40" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg">
   <img align="center" alt="AdonisinodA-Mongodb" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
-  <img align="right" alt="adonis-pic" height="150" width="300"  src="https://assets.b9.com.br/wp-content/uploads/2020/05/TheMidnightGospel_Seson1_Episode8_00_00_24_11.jpg">
+  <img align="right" alt="adonis-pic" height="150px" src="https://assets.b9.com.br/wp-content/uploads/2020/05/TheMidnightGospel_Seson1_Episode8_00_00_24_11.jpg">
 </div>
   
   ##
