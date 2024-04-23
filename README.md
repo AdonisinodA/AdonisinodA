@@ -12,7 +12,7 @@
   <img align="center" alt="AdonisinodA-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="AdonisinodA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AdonisinodA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AdonisinodA-Node" height="30" width="40" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg">
+  <img align="center" alt="AdonisinodA-Node" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
   <img align="center" alt="AdonisinodA-Mongodb" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
   <img align="right" width="100" height="100" alt="adonis-pic"  src="https://i.ibb.co/SrNNkRB/imgbin-snorlax-pok-mon-firered-and-leafgreen-png.png">
 </div>
